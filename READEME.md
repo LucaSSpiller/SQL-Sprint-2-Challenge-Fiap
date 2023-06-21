@@ -1,5 +1,5 @@
 
-Parte de Banco de dados
+Nesse git está a parte de Banco de dados
 
 
 <p align="center"> 
